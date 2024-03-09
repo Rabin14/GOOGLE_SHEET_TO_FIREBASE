@@ -14,5 +14,5 @@ Open appscript.json and add the following oAuth scopes
 Open Code.gs
 Delete all the existing code in Code.gs and replace it with the code from appscript/update-firebase.js,
 taking care not to include the imports/exports which are for testing purposes only.
-Initialize
-run the code
+press Initialize,
+run the code.
